@@ -17,5 +17,5 @@ public class TestMain {
         System.out.println(JSON.toJSONString(student));
         System.out.println("***************************************");
         System.out.println(student.toString());
-    }
-}
+        }
+        }
